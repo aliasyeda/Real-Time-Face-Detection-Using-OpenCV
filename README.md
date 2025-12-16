@@ -39,7 +39,7 @@ The project demonstrates face detection using the **Haar Cascade Classifier**, o
    pip install opencv-python matplotlib
 Open the Jupyter Notebook:
 
-Run all cells in face_detection.ipynb.
+Run all cells in .ipynb File.
 
 ---
 
