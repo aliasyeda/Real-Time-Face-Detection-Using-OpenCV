@@ -39,14 +39,12 @@ The project demonstrates face detection using the **Haar Cascade Classifier**, o
    pip install opencv-python matplotlib
 Open the Jupyter Notebook:
 
-bash
-Copy code
-jupyter notebook
 Run all cells in face_detection.ipynb.
 
 ---
 
 ✅ Output
+
 Faces in the image are detected successfully.
 
 Detected faces are highlighted using a green rectangular box.
@@ -54,6 +52,7 @@ Detected faces are highlighted using a green rectangular box.
 ---
 
 📌 Note
+
 The project follows the structure and guidelines discussed during the OpenCV session.
 
 The implementation focuses on face detection using Haar Cascade .
@@ -61,6 +60,7 @@ The implementation focuses on face detection using Haar Cascade .
 ---
 
 🏁 Conclusion
+
 This project demonstrates a basic yet effective implementation of face detection using OpenCV.
 It provides hands-on experience with image processing and real-world computer vision techniques.
 
@@ -86,4 +86,4 @@ Syeda Alia Samia
 
 
 
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+
