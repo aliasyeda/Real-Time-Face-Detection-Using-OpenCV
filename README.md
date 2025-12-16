@@ -44,22 +44,30 @@ Copy code
 jupyter notebook
 Run all cells in face_detection.ipynb.
 
+---
+
 ✅ Output
 Faces in the image are detected successfully.
 
 Detected faces are highlighted using a green rectangular box.
 
+---
+
 📌 Note
 The project follows the structure and guidelines discussed during the OpenCV session.
 
-The implementation focuses on face detection using Haar Cascade as required by the assignment.
+The implementation focuses on face detection using Haar Cascade .
+
+---
 
 🏁 Conclusion
 This project demonstrates a basic yet effective implementation of face detection using OpenCV.
 It provides hands-on experience with image processing and real-world computer vision techniques.
 
+---
+
 👤 Author
-Alia Samia Syeda
+Syeda Alia Samia
 
 
 
